@@ -1,0 +1,7 @@
+20190628 - Adapted to WDK 8.x and Visual Studio 2013
+
+VDK驱动编译与VS进行了集成
+
+Use at your own risk
+URL: http://oss.netfarm.it/win32/
+EMAIL: Liang <dotdottech@outlook.com>
